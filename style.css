@@ -1,3 +1,10 @@
 body{
     background-color: rgb(236, 255, 205);
+    text-align: center;
+}
+p {
+    color: darkgray;
+}
+.EDUCAÇÃO{
+       font-style: italic;
 }
